@@ -1,0 +1,6 @@
+C:\TestApp\Shopping Db_VS\Shopping Db_VS\bin\Debug\Shopping Db_VS.dacpac
+C:\TestApp\Shopping Db_VS\Shopping Db_VS\obj\Debug\Shopping Db_VS.sqlproj.AssemblyReference.cache
+C:\TestApp\Shopping Db_VS\Shopping Db_VS\obj\Debug\Shopping_Db_VS.dll
+C:\TestApp\Shopping Db_VS\Shopping Db_VS\obj\Debug\Shopping_Db_VS.pdb
+C:\TestApp\Shopping Db_VS\Shopping Db_VS\bin\Debug\Shopping_Db_VS.dll
+C:\TestApp\Shopping Db_VS\Shopping Db_VS\bin\Debug\Shopping_Db_VS.pdb
